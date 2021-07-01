@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DBFB)
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanrios15&show_icons=true&theme=merko)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanrios15&show_icons=true&theme=dark)
 
 
 
