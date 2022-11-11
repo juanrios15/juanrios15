@@ -13,6 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrios15&layout=compact&theme=dark)](https://github.com/juanrios15/github-readme-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 
