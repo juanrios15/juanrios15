@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/Code-djangoREST-informational?style=flat&logo=django&logoColor=white&color=A30000)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DBFB)
 ![](https://www.codewars.com/users/juanrios15/badges/micro)
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanrios15&show_icons=true&theme=dark)
