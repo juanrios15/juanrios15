@@ -1,6 +1,5 @@
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juanrios15.visitors1)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4B8BBE)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=092e20)
